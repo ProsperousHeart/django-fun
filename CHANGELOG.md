@@ -22,3 +22,4 @@ TBD
 - README outlining expectations of this project.
 - This CHANGELOG file to provide source of updates.
 - requirements file showing installed python versions
+- code of conduct
