@@ -22,4 +22,6 @@ TBD
 - README outlining expectations of this project.
 - This CHANGELOG file to provide source of updates.
 - requirements file showing installed python versions
-- code of conduct
+- code of conduct (default creation from template)
+- duplicated GitHub docs contributing file as a start point (still need to update)
+- pull request template
